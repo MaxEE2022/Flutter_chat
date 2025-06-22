@@ -1,6 +1,14 @@
 # yes_no_app
 
-A new Flutter project.
+-Provider
+-Dio
+-Mappers
+-factory
+-models
+-https://app.quicktype.io/
+-textfields
+-textfield controllers
+-valueChanged callback
 
 ## Getting Started
 
